@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514826786294",
+    "firebase_url": "https://ecommerce-app-43c51-default-rtdb.firebaseio.com",
+    "project_id": "ecommerce-app-43c51",
+    "storage_bucket": "ecommerce-app-43c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514826786294:android:e8d62fe57de0721af2e3d7",
+        "android_client_info": {
+          "package_name": "com.example.hmrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514826786294-37ra8uvq6tqmuc94dmr6a986hegg0b81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARF4OYqpK618ooto_2WcALOC3W4tluZxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514826786294-37ra8uvq6tqmuc94dmr6a986hegg0b81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
